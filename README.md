@@ -1,6 +1,8 @@
 # split
  Split! is a script to split videos with ffmpeg.
 
+ Python 3.7 is required.
+
 It's nothing new, but it simplefies the use of ffmpeg. 
 
 Run the script with:
