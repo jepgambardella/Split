@@ -24,12 +24,6 @@ git clone https://github.com/your-repo/split.git
 cd split
 ```
 
-Install required Python dependencies:
-
-```
-pip install -r requirements.txt
-```
-
 ## 📖 Usage
 
 Simply run the script to launch the program:
