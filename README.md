@@ -1,5 +1,5 @@
 
-# 🎬 Split! - The Nostalgic Video Splitter 📽️
+# 🎬 Split! - A simple video Splitter 📽️
 
 **A simple, efficient, and customizable video splitter powered by FFmpeg 💻✨**
 
@@ -38,7 +38,7 @@ Simply run the script to launch the program:
 python split.py
 ```
 
-The program will guide you through a simple and interactive process to split your video files. Specify the input video, choose the output directory, and set split points or other parameters—all within a user-friendly interface.
+The program will guide you through a simple and interactive process to split your video files. Specify the input video and set split points or other parameters—all within a user-friendly interface.
 
 ## ❓ What Can It Do?
 
