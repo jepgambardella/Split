@@ -1,17 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Split! - README</title>
-</head>
-<body>
     <h1 align="center">🎬 Split! - A simple video splitter 📽️</h1>
     <p align="center">
         <strong>A simple, efficient, and customizable video splitter powered by FFmpeg 💻✨</strong>
     </p>
 
-<<<<<<< HEAD
     <hr>
 
     <h2>📜 Overview</h2>
@@ -32,24 +23,6 @@
     git clone https://github.com/your-repo/split.git
     cd split
     </pre>
-=======
- Python 3.7 is required.
-
-It's nothing new, but it simplefies the use of ffmpeg. 
-
-Run the script with:
-
-`python split.py`
-
-You can choose 2 different options:
-
-1. Split the video in chunks by entering the quantity
-
-2. Split the video in a certain time-range. The last clip, if shorter, will be mantained.
-
-You can choose to split it without re-encoding the video or not. 
-The quickest but less precise way is without re-encoding, but if you need a precise split, you can re-encode the video in the desired format.
->>>>>>> a2903feed2c1e028f37ce11c9c416c7f8eb2c018
 
 
     <h2>📖 Usage</h2>
@@ -85,5 +58,3 @@ The quickest but less precise way is without re-encoding, but if you need a prec
     <hr>
 
     <p align="center">Crafted with ❤️ by jepgambardella</p>
-</body>
-</html>
