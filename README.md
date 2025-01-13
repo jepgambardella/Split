@@ -20,7 +20,7 @@
 Clone the repository and ensure you have Python 3.7+ and FFmpeg installed:
 
 ```
-git clone https://github.com/your-repo/split.git
+git clone https://github.com/jepgambardella/split.git
 cd split
 ```
 
